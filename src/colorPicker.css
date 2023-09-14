@@ -1,0 +1,19 @@
+div {
+    height: 100vh;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+button {
+    font-size: 22px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: 0.1px solid black;
+    padding: 5px;
+}
